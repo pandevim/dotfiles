@@ -9,6 +9,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Launcher: 
 - Files: 
 - Browser: 
+- Dsk Environment: GNOME / Unity / KDE
 
 # How Do You Use?
 Dotfiles are under `/home` directory.
