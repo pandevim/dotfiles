@@ -2,7 +2,7 @@
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
 - WM: 
-- GTK: 
+- Widget toolkit: GTK 
 - Icons: 
 - Panel / Bar: 
 - Terminal: 
@@ -12,7 +12,6 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Dsk Environment: GNOME / Unity / KDE
 - Partition Manager: 
 - Spreadsheet: 
-- Widget toolkit:
 
 # How Do You Use?
 Dotfiles are under `/home` directory.
