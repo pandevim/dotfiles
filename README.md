@@ -8,3 +8,4 @@ Here’s a list of what I’m using on my Arch Linux System:
 - Terminal: 
 - Launcher: 
 - Files: 
+- Browser: 
