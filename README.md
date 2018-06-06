@@ -11,6 +11,7 @@ Here’s a list of what I’m using on my Arch Linux System:
 - Browser: 
 
 # How Do You Use?
+Dotfiles are under `/home` directory.
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
