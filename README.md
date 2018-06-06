@@ -9,9 +9,10 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Launcher: 
 - Files: 
 - Browser: 
-- Dsk Environment: GNOME / Unity / KDE
 - Partition Manager: 
 - Spreadsheet: 
+- Dsk Environment: Not included in the installation just there for taste.
+  - GNOME / Unity / KDE
 
 # How Do You Use?
 Dotfiles are under `/home` directory.
