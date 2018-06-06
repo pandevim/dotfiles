@@ -10,6 +10,9 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Files: 
 - Browser: 
 - Dsk Environment: GNOME / Unity / KDE
+- Partition Manager: 
+- Spreadsheet: 
+- Widget toolkit:
 
 # How Do You Use?
 Dotfiles are under `/home` directory.
