@@ -11,6 +11,8 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Browser: 
 - Partition Manager: 
 - Spreadsheet: 
+- Display Server: X.org (X)
+- Version Control: Git / Mercurial
 - Dsk Environment: Not included in the installation just there for taste.
   - GNOME / Unity / KDE
 
