@@ -9,3 +9,10 @@ Here’s a list of what I’m using on my Arch Linux System:
 - Launcher: 
 - Files: 
 - Browser: 
+
+# How Do you Use?
+```shell
+git clone https://github.com/aniruddha0pandey/dotfiles
+cd dotfiles
+./install.sh
+```
