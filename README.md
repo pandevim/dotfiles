@@ -1,5 +1,5 @@
 # What Do I Use?
-Here’s a list of what I’m using on my Arch Linux System:
+Here’s a list of what I’m using on my Arch GNU/Linux System:
 
 - WM: 
 - GTK: 
