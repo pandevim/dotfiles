@@ -16,3 +16,5 @@ git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
 ./install.sh
 ```
+
+# Screenshots
