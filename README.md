@@ -10,7 +10,7 @@ Here’s a list of what I’m using on my Arch Linux System:
 - Files: 
 - Browser: 
 
-# How Do you Use?
+# How Do You Use?
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
