@@ -17,7 +17,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
   - GNOME / Unity / KDE
 
 # How Do You Use?
-Dotfiles are under `/home` directory.
+All dotfiles are under `/home` directory.
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
