@@ -22,19 +22,33 @@ ctrl + alt + (F1, F2, F3) = move b/w ttys
   <!-- basics -->
   win + return = open terminal
   win + shif + q = close terminal
-  win + (1, 2, 3) = jumb b/w workplace
-  win + e = default layout
-  win + s = stacking layout
-  win + w = tabbed layout
+  win + d = open dmenu
+  return = close dmenu
+
+  <!-- workspaces -->
+  win + (0 - 9) = jumb
+  win + shift + (0 - 9) = move window
+
+  <!-- layout -->
+  win + e = default
+  win + s = stacking
+  win + w = tabbed
+
   <!-- moving windows -->
-  win + shift + j	= move window left
-  win + shift + k	= move window down
-  win + shift + l	= move window up
-  win + shift + ;	= move window right
+  win + shift + j	= left
+  win + shift + k	= down
+  win + shift + l	= up
+  win + shift + ;	= right
+
   <!-- modifying windows -->
+  win + shift + space =	toggle floating
   win + f	= toggle fullscreen
+
+  <!-- ... -->
   win + v	= split a window vertically
   win + h	= split a window horizontally
+
+  <!-- ... -->
   <h2> win + r	= resize mode </h2>
     j	= resize window left
     k	= resize window down
