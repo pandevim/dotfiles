@@ -12,6 +12,8 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Terminal: st
   - Patches:
     - scroolback w/ mouse
+    - inc/dec font size
+    - transparent
 - Launcher: 
 - Files: 
 - Browser: 
