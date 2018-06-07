@@ -9,7 +9,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: 
-- Terminal: 
+- Terminal: st
 - Launcher: 
 - Files: 
 - Browser: 
