@@ -24,7 +24,7 @@ cd dotfiles
 ./install.sh
 ```
 
-# Screenshots
+# [Screenshots](https://www.reddit.com/r/unixporn/)
 
 # Future
 I would like to build my own Linux System, entirely from source code.
