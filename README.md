@@ -17,7 +17,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Display Manager: 
 - Boot Loader: GRUB
 - Dsk Environment: Not included in the installation just there for taste.
-  - GNOME / Unity / KDE
+  - GNOME / UNITY / KDE / MATE
 
 # How Do You Use?
 All dotfiles are under `/home` directory.
