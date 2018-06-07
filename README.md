@@ -23,7 +23,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Editor: Vim
 - Version Control: Git / Mercurial
 - Network Manager: NetworkManager (nm-applet) (works great w/ i3)
-- PATH: /.scripts (custom)
+- $PATH: /.scripts (custom)
 
 
 # How Do You Use?
