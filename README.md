@@ -13,6 +13,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Spreadsheet: 
 - Display Server: X.org (X)
 - Version Control: Git / Mercurial
+- NM: NetworkManager (works great w/ i3)
 - Dsk Environment: Not included in the installation just there for taste.
   - GNOME / Unity / KDE
 
