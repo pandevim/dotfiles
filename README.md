@@ -25,3 +25,7 @@ cd dotfiles
 ```
 
 # Screenshots
+
+# Future
+I would like to build my own Linux System, entirely from source code.
+Because every Jedi crafts his own saber, as a right of passage. With naturally grown kybar crystals from planet Ilum.
