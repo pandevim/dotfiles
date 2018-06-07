@@ -1,7 +1,11 @@
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
-- Window Manager: 
+- Dsk Environment: OR (GNOME / UNITY / KDE / MATE) Not included in the installation just there for taste.
+  - Display Server: X.org (X)
+  - Graphic Driver: 
+  - Display Manager: 
+  - Window Manager: 
 - Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: 
@@ -11,13 +15,9 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Browser: 
 - Partition Manager: 
 - Spreadsheet: 
-- Display Server: X.org (X)
 - Version Control: Git / Mercurial
 - Network Manager: NetworkManager (works great w/ i3)
-- Display Manager: 
 - Boot Loader: GRUB
-- Dsk Environment: Not included in the installation just there for taste.
-  - GNOME / UNITY / KDE / MATE
 
 # How Do You Use?
 All dotfiles are under `/home` directory.
