@@ -14,6 +14,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Display Server: X.org (X)
 - Version Control: Git / Mercurial
 - NM: NetworkManager (works great w/ i3)
+- DM: 
 - Boot Loader: GRUB
 - Dsk Environment: Not included in the installation just there for taste.
   - GNOME / Unity / KDE
