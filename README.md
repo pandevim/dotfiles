@@ -11,7 +11,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Panel / Bar: 
 - Terminal: st
   - Patches:
-    - 
+    - scroolback w/ mouse
 - Launcher: 
 - Files: 
 - Browser: 
