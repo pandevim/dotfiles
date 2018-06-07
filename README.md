@@ -17,7 +17,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
     - transparent
 - Launcher: 
 - Files: 
-- Browser: ~Qutebrowser~ / Dillo / Lynx / ~Firefox~
+- Browser: ~Qutebrowser~ / Dillo / ~Lynx~ / ~Firefox~
 - Partition Manager: 
 - Spreadsheet: 
 - Editor: Vim
