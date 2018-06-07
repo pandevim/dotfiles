@@ -1,8 +1,8 @@
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
-- WM: 
-- Widget toolkit: GTK 
+- Window Manager: 
+- Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: 
 - Terminal: 
@@ -13,8 +13,8 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Spreadsheet: 
 - Display Server: X.org (X)
 - Version Control: Git / Mercurial
-- NM: NetworkManager (works great w/ i3)
-- DM: 
+- Network Manager: NetworkManager (works great w/ i3)
+- Display Manager: 
 - Boot Loader: GRUB
 - Dsk Environment: Not included in the installation just there for taste.
   - GNOME / Unity / KDE
