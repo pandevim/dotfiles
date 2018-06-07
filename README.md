@@ -10,6 +10,8 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Icons: 
 - Panel / Bar: 
 - Terminal: st
+  - Patches:
+    - 
 - Launcher: 
 - Files: 
 - Browser: 
