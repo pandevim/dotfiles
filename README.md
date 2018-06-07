@@ -1,6 +1,7 @@
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
+- Boot Loader: GRUB
 - Dsk Environment: OR (GNOME / UNITY / KDE / MATE) Not included in the installation just there for taste.
   - Display Server: X.org (X)
   - Graphic Driver: 
@@ -19,9 +20,11 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Browser: 
 - Partition Manager: 
 - Spreadsheet: 
+- Editor: Vim
 - Version Control: Git / Mercurial
 - Network Manager: NetworkManager (nm-applet) (works great w/ i3)
-- Boot Loader: GRUB
+- PATH: /.scripts (custom)
+
 
 # How Do You Use?
 All dotfiles are under `/home` directory.
