@@ -4,7 +4,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Dsk Environment: OR (GNOME / UNITY / KDE / MATE) Not included in the installation just there for taste.
   - Display Server: X.org (X)
   - Graphic Driver: 
-  - Display Manager: 
+  - Display Manager: i3-gaps
   - Window Manager: 
 - Widget Toolkit: GTK 
 - Icons: 
