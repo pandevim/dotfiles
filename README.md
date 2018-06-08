@@ -9,7 +9,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
   - Window Manager: i3-gaps
 - Widget Toolkit: GTK 
 - Icons: 
-- Panel / Bar: 
+- Panel / Bar: i3status
 - Terminal: st
   - Patches:
     - scroolback w/ mouse
