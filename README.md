@@ -20,7 +20,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Browser: ~Qutebrowser~ / Dillo / ~Lynx~ / ~Firefox~
 - Partition Manager: 
 - Spreadsheet: 
-- Editor: Vim
+- Editor: Vim / ~Sublime~
 - Version Control: Git / Mercurial
 - Network Manager: NetworkManager (nm-applet) (works great w/ i3)
 - $PATH: /.scripts (custom)
