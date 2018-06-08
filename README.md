@@ -2,7 +2,7 @@
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
 - Boot Loader: GRUB
-- Dsk Environment: OR (GNOME / UNITY / KDE / MATE) Not included in the installation just there for taste.
+- Dsk Environment: (~GNOME~ / ~UNITY~ / ~KDE~ / ~MATE~) not included in the installation just there for taste.
   - Display Server: X.org (X)
   - Graphic Driver: 
   - Display Manager: GDM
