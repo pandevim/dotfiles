@@ -12,6 +12,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 - Panel / Bar: i3status
 - Terminal: st
   - Patches:
+    - Fonts: Dejavu
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
