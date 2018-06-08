@@ -2,7 +2,7 @@
 Here’s a list of what I’m using on my Arch GNU/Linux System:
 
 - Boot Loader: GRUB
-- Dsk Environment: (~GNOME~ / ~UNITY~ / ~KDE~ / ~MATE~) not included in the installation just there for taste.
+- Dsk Environment:
   - Display Server: X.org (X)
   - Graphic Driver: 
   - Display Manager: GDM
@@ -16,7 +16,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-- Launcher: 
+- Launcher: Dmenu
 - Files: 
 - Browser: ~Qutebrowser~ / Dillo / ~Lynx~ / ~Firefox~
 - Partition Manager: 
