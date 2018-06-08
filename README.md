@@ -27,13 +27,12 @@ Here’s a list of what I’m using on my Arch GNU/Linux System:
 
 
 # How Do You Use?
-All dotfiles are under `home/` directory, not `etc/`.
+All dotfiles under `home/` directory, not `etc/` plus backup existing setting.
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
 ./install.sh
 ```
-This will backup existing setting.
 
 # [Screenshots](https://www.reddit.com/r/unixporn/)
 
