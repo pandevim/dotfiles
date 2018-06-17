@@ -3,7 +3,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 
 - Boot Loader: GRUB
 - Dsk Environment:
-  - Display Server: X.org (X)
+  - Display Server: Xorg
   - Graphic Driver: 
   - Display Manager: GDM
   - Window Manager: i3-gaps
