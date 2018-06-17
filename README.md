@@ -21,7 +21,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 - Files: 
 - Browser: ~Qutebrowser~ / Dillo / ~Firefox~
 - Partition Manager: 
-- Virtual Machine: QEMU (w/ kvm since x86_64)
+- Virtual Machine: QEMU (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
 - Editor: Vim / ~Sublime~
 - Version Control: Git / Mercurial
