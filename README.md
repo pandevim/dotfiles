@@ -10,6 +10,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 - Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: i3status
+- Shell: zsh
 - Terminal: st
   - Patches:
     - Fonts: Dejavu
