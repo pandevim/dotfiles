@@ -19,7 +19,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
     - transparent
 - Launcher: Dmenu
 - Files: 
-- Browser: ~Qutebrowser~ / Dillo / ~Lynx~ / ~Firefox~
+- Browser: ~Qutebrowser~ / Dillo / ~Firefox~
 - Partition Manager: 
 - Spreadsheet: 
 - Editor: Vim / ~Sublime~
