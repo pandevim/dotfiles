@@ -29,7 +29,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 
 
 # How Do You Use?
-All dotfiles under `home/` directory, not `etc/` plus backup existing setting.
+All dotfiles under `home/` directory plus backup existing settings.
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
