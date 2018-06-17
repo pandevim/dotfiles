@@ -29,12 +29,13 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 
 
 # How Do You Use?
-All [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) under `home/` directory plus backup existing settings.
+All [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) under `home/` directory.
 ```shell
 git clone https://github.com/aniruddha0pandey/dotfiles
 cd dotfiles
 ./install.sh
 ```
+This will automatically backup existing settings.
 
 # [Screenshots](https://www.reddit.com/r/unixporn/)
 
