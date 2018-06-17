@@ -1,5 +1,5 @@
 # What Do I Use?
-Here’s a list of what I’m using on my Arch GNU/Linux System:
+Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it to be as **KISS** and customizable :
 
 - Boot Loader: GRUB
 - Dsk Environment:
