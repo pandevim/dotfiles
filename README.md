@@ -42,4 +42,5 @@ This will automatically backup existing settings.
 
 # Future
 I would like to build my own Linux System, entirely from source code.
-Because, **every jedi crafts his own saber**, as a right of passage with naturally grown kybar crystals from planet Ilum.
+Because, **every jedi crafts his own saber**, as a right of passage with naturally grown kybar crystals from planet Ilum.  
+Motivation: http://moebuntu.web.fc2.com/home_eng.html.
