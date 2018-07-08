@@ -4,3 +4,4 @@ xrandr,"Configuration utility to the RandR (Rotate and Resize) X Window System e
 ttf-dejavu,"Font",
 dmenu,"Programs Launcher",
 feh,"Image Viewer & Wallpaper Manager",
+startx, "Open Xorg Server",
