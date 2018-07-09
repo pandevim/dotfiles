@@ -4,7 +4,7 @@ ctrl + l                  = clear
 shift + pgup              = scroll-up
 ctrl + c                  = exit running program / kill a process (non-resumable)
 ctrl + z                  = pause / suspend / shunts / putting into background (resumable)
-ctrl + e                  = history of terminal
+# ctrl + e                  = history of terminal
 ctrl + alt + (F1, F2, F3) = move b/w ttys
 
 <h1> Xorg </h1>
@@ -13,14 +13,23 @@ ctrl + alt + (F1, F2, F3) = move b/w ttys
 
 <h1> vim </h1>
   <h2> insert-mode </h2>
-    <h3> command-mode </h3>
-      :x = save-exit
-      :q = exit
-      :q! = exit without save
-      h   = left
-      l   = right
-      j   = down
-      k   = up
+    # movment using arrows
+  <h3> command-mode </h3>
+    :x = save-exit
+    :q = exit
+    :q! = exit without save
+    h   = left
+    l   = right
+    j   = down
+    k   = up
+
+<h1> git </h1>
+  git init                    # in respective directory
+  git add <filename>          # track
+  git commit -m "<comment>"
+  git remote add origin <url>
+  git remote -v               # check
+  git push origin master
 
 <h1> Dillo </h1>
   <!-- scroll -->
