@@ -12,7 +12,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 - Icons: 
 - Panel / Bar: i3status
 - Shell: zsh
-- Terminal: st
+- Terminal: st / ~Termite~
   - Patches:
     - Fonts: Dejavu
     - scroolback w/ mouse
