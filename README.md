@@ -11,7 +11,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. I can claim it 
 - Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: i3status
-- Shell: [zsh](https://ohmyz.sh/)
+- Shell: zsh [via](https://ohmyz.sh/).
 - Terminal: st / ~Termite~
   - Patches:
     - Fonts: Dejavu
