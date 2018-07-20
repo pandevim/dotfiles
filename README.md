@@ -33,9 +33,9 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 # How Do You Use?
 All [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) under `home/` directory.
 ```shell
-git clone https://github.com/aniruddha0pandey/dotfiles
-cd dotfiles
-./install.sh
+$ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
+$ cd dotfiles
+$ ./install.sh
 ```
 This will automatically backup existing settings.
 
