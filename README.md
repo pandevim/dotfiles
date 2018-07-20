@@ -1,4 +1,5 @@
 // TODO : https://github.com/muhasturk/gitim  
+// TODO : https://github.com/DaveDavenport/rofi  
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
 
@@ -18,7 +19,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-- App Launcher: Dmenu
+- App Launcher: Dmenu / ~Rofi~
 - Files: 
 - Browser: ~Qutebrowser~ / Dillo / ~Firefox~
 - Partition Manager: 
