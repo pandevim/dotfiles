@@ -1,5 +1,6 @@
 // TODO : https://github.com/muhasturk/gitim  
 // TODO : https://github.com/DaveDavenport/rofi  
+// TODO : https://github.com/neovim/neovim  
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
 
@@ -25,7 +26,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Partition Manager: 
 - Virtual Machine: QEMU (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
-- Editor: Vim / ~Sublime~
+- Editor: Vim / ~Sublime~ / ~Neovim~
 - Version Control: Git / Mercurial
 - Network Manager: NetworkManager (nm-applet)
 - $PATH: ~/.scripts (custom)
