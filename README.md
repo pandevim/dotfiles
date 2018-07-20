@@ -18,7 +18,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-- Launcher: Dmenu
+- App Launcher: Dmenu
 - Files: 
 - Browser: ~Qutebrowser~ / Dillo / ~Firefox~
 - Partition Manager: 
