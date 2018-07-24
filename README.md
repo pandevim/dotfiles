@@ -34,7 +34,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 
 
 # How Do You Use?
-Put all dotfiles under `home/` directory.
+Put all `dotfiles/` under `home/` directory.
 ```shell
 $ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
 $ cd dotfiles
