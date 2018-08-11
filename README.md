@@ -16,7 +16,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Widget Toolkit: GTK 
 - Icons: 
 - Panel / Bar: i3status
-- Shell: zsh [via](https://ohmyz.sh/).
+- Shell: ~bash~ / ~fish-shell~ / zsh [via](https://ohmyz.sh/).
 - Terminal: st / ~Termite~
   - Patches:
     - Fonts: Dejavu
