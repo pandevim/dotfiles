@@ -15,7 +15,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
   - Window Manager: i3-gaps
 - Widget Toolkit: GTK 
 - Icons: 
-- Panel / Bar: i3status
+- Panel-Bar: i3status
 - Shell: ~bash~ / ~fish-shell~ / zsh [via](https://ohmyz.sh/).
 - Terminal: st / ~Termite~
   - Patches:
