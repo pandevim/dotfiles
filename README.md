@@ -4,7 +4,7 @@
 // TODO : https://github.com/dylanaraps/neofetch  
 // TODO : https://github.com/s0md3v/nano  
 // TODO : https://github.com/Jguer/yay  
-// TODO : https://github.com/r3gz3n/HackCLI
+// TODO : https://github.com/r3gz3n/HackCLI  
 // TODO : https://hyper.is/
 
 # What Do I Use?
