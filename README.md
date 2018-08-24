@@ -62,6 +62,16 @@ $ ./install.sh
 This will automatically backup existing settings.
 
 # [Screenshots](https://www.reddit.com/r/unixporn/)
+<details>
+<summary>more?</summary><br />
+
+### Zsh
+![]()
+
+### Neovim
+![]()
+
+</details>
 
 # Future
 I would like to build my own Linux System, entirely from source code.
