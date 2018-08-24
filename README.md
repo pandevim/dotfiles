@@ -14,8 +14,12 @@
 // TODO : https://github.com/cmus/cmus  
 // TODO : http://www.ex-parrot.com/pdw/iftop/  
 // TODO : https://github.com/MrRio/vtop  
+// TODO : https://github.com/sindresorhus/fkill-cli  
+// TODO : https://github.com/nvbn/thefuck  
+// TODO : https://github.com/andmarti1424/sc-im  
+// TODO : https://github.com/BurntSushi/ripgrep  
+// TODO : https://github.com/athityakumar/colorls  
 // TODO :   
-// TODO : 
 
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
