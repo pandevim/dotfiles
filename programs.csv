@@ -1,5 +1,6 @@
 Package,Description,Patches (if any)
 htop,"Analyse Resource Usage.",
+iftop,"Analyse bandwidth Usage.",
 xrandr,"Configuration utility to the RandR (Rotate and Resize) X Window System extension.",
 ttf-dejavu,"Font",
 dmenu,"Programs Launcher",
