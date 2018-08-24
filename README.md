@@ -8,7 +8,9 @@
 // TODO : https://hyper.is/  
 // TODO : https://github.com/bhilburn/powerlevel9k (https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)  
 // TODO : https://github.com/junegunn/fzf#as-vim-plugin  
-// TODO : https://github.com/jwilm/alacritty (patch: plasma!)
+// TODO : https://github.com/jwilm/alacritty (patch: plasma!)  
+// TODO : https://github.com/osa1/tiny
+// TODO : https://github.com/sharkdp/bat
 
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
