@@ -20,6 +20,7 @@
 // TODO : https://github.com/BurntSushi/ripgrep  
 // TODO : https://github.com/athityakumar/colorls  
 // TODO : https://github.com/junegunn/vim-plug  
+// TODO : https://github.com/junegunn/seoul256.vim  
 
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
