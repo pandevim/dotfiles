@@ -22,6 +22,7 @@
 // TODO : https://github.com/junegunn/vim-plug  
 // TODO : https://github.com/junegunn/seoul256.vim  
 // TODO : https://github.com/p-e-w/ternimal  
+// TODO : http://dotfiles.github.io/  
 
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
