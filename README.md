@@ -24,7 +24,10 @@
 // TODO : https://github.com/p-e-w/ternimal  
 // TODO : http://dotfiles.github.io/  
 // TODO : https://github.com/klauscfhq/taskbook  
-// TODO : https://github.com/JacobKauffman/Dotfiles
+// TODO : https://github.com/JacobKauffman/Dotfiles  
+// TODO : https://github.com/ranger/ranger  
+// TODO : https://github.com/dylanaraps/pywal  
+// TODO : https://github.com/jaagr/polybar
 
 # What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
