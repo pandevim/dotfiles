@@ -11,6 +11,15 @@ ctrl + z                  = pause / suspend / shunts / putting into background (
 ctrl + alt + (F1, F2, F3) = move b/w ttys
 alt + (←, →) = move b/w ttys
 
+
+<!-- USB -->
+  <!-- fat -->
+  sudo pacman -Ss dosfstools # check
+  sudo mkfs.vfat /dev/sdb1
+  <!-- ntfs -->
+  sudo pacman -Ss ntfsprogs # check
+  sudo mkfs.ntfs /dev/sdb1 
+
 <!-- make -->
 mkdir <name>            # directory
 touch <name.extension>  # file
