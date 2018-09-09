@@ -142,9 +142,17 @@ touch <name.extension>  # file
   sudo hwclock -w
   sudo pacman-key --refresh-keys    # refresh
   sudo pacman -Sy archlinux-keyring # update
-  <!-- furtur troubleshooting -->
-    
+  
+  sudo rm -rf /etc/pacman.d/gnupg
+  sudo pacman-key --init
+  sudo pacman-key --populate
+  
+  sudo pacman -Rdd package-query
+  sudo pacman -Syu
+  git clone https://aur.archlinux.org/package-query.git
+  cd package-query && makepkg -si
 
+ 
 <h1> Konsole </h1>
   <-- clear -->
     ctrl + l
