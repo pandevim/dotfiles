@@ -137,8 +137,13 @@ touch <name.extension>  # file
   echo $0         # vomit current
   chsh -l         # list
   echo $SHELL     # path
-<!-- updating kerring -->
-  pacman -Sy archlinux-keyring # chicken-egg-problem
+<!-- keyring (chicken-egg-problem)-->
+  sudo ntpd -qg
+  sudo hwclock -w
+  sudo pacman-key --refresh-keys    # refresh
+  sudo pacman -Sy archlinux-keyring # update
+  <!-- furtur troubleshooting -->
+    
 
 <h1> Konsole </h1>
   <-- clear -->
