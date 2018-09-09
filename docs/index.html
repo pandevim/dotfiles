@@ -141,11 +141,11 @@ touch <name.extension>  # file
   sudo ntpd -qg
   sudo hwclock -w
   sudo pacman-key --refresh-keys    # refresh
-  sudo pacman -Sy archlinux-keyring # update
+  sudo pacman -Sy archlinux-keyring # update 
   
   sudo rm -rf /etc/pacman.d/gnupg
   sudo pacman-key --init
-  sudo pacman-key --populate
+  sudo pacman-key --populate #OR# sudo pacman-key --populate archlinux manjaro
   
   sudo pacman -Rdd package-query
   sudo pacman -Syu
