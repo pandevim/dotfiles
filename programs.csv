@@ -7,4 +7,5 @@ dmenu, "Programs Launcher",,
 feh, "Image Viewer & Wallpaper Manager","AUR",python-autobgch
 gschem, "Electronics Design Automation Tool",,
 ocp, "Open Cubic Player - Music Player",,
+ncmpcpp, "MPD client",,
 yay, "AUR-Helper / Wrapper","AUR",
