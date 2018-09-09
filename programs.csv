@@ -1,11 +1,11 @@
-Package,Description,Patches (if any)
-htop,"Analyse Resource Usage.",
-iftop,"Analyse bandwidth Usage.",
-xrandr,"Configuration utility to the RandR (Rotate and Resize) X Window System extension.",
-ttf-dejavu,"Font",
-dmenu,"Programs Launcher",
-feh,"Image Viewer & Wallpaper Manager",
-gschem, "Electronics Design Automation Tool",
-ocp, "Open Cubic Player - Music Player",
-yay, "AUR-Helper / Wrapper",
-autobgch, "Wallpaper Manager", `bgchd` & `bgctl`
+Package, Description, Source,Patches (if any)
+htop, "Analyse Resource Usage.",,
+iftop, "Analyse bandwidth Usage.",,
+xrandr, "Configuration utility to the RandR (Rotate and Resize) X Window System extension.",,
+ttf-dejavu, "Font",,
+dmenu, "Programs Launcher",,
+feh, "Image Viewer & Wallpaper Manager",,
+gschem, "Electronics Design Automation Tool",,
+ocp, "Open Cubic Player - Music Player",,
+yay, "AUR-Helper / Wrapper",,
+autobgch, "Wallpaper Manager","github.com/AlvinJian/auto_background_changer",
