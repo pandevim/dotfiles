@@ -45,7 +45,7 @@ Put all `dotfiles/` under `home/` directory. Installation sustain two mediums:
 - remote
 ```shell
 ▖~ cd dotfiles
-▖~ wget -O - --no-check-certificate https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/blob/master/remote-install.py
+▖~ wget -O https://cdn.rawgit.com/aniruddha0pandey/dotfiles/master/remote-install.py
 ▖~ ./remote-install.py
 ```
 This will automatically backup existing settings. Enjoy your new fangled environment!
