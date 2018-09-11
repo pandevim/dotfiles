@@ -27,7 +27,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Virtual Machine: `QEMU` (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~
-- Version Control: `Git` / `Mercurial`
+- Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` (nm-applet)  
 
 **Custom**
