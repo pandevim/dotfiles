@@ -107,6 +107,8 @@ touch <name.extension>  # file
 <!-- diagnose -->
   xrandr
   xrandr --output Virtual1 --mode 1024x768
+<!-- Screen -->
+  xdpyinfo  | grep 'dimensions:' #OR# xrandr | grep '*'
 <!-- remove dir -->
   rm -rf ./directory
 <!-- uninstall package completely -->
