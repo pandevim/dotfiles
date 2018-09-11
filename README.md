@@ -54,7 +54,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - App Launcher: Dmenu / ~Rofi~
 - Files: 
 - Compositor: Compton
-- Browser: ~Qutebrowser~ / Dillo / ~Firefox~ / ~Chromium~
+- Browser: ~Qutebrowser~ / ~Dillo~ / Firefox / ~Chromium~ / ~Vivaldi~
 - Partition Manager: 
 - Virtual Machine: QEMU (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
@@ -69,7 +69,7 @@ Put all `dotfiles/` under `home/` directory.
 ```shell
 ▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
 ▖~ cd dotfiles
-▖~ ./install.sh
+▖~ ./install.py
 ▖~ # enjoy your new fangled environment!
 ```
 This will automatically backup existing settings.
