@@ -31,7 +31,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Network Manager: `NetworkManager` (nm-applet)  
 
 **Custom**
-- $PATH: ~/.scripts (can be disables in install.py)
+- $PATH: `~/.scripts` (can be disables in install.py)
 
 
 ## How to Use?
