@@ -3,7 +3,7 @@
 ## What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
 
-<b>Core</b>
+**Core**
 - Boot Loader: GRUB
 - Dsk Environment:
   - Display Server: Xorg
