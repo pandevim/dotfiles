@@ -1,5 +1,5 @@
 # `dotfiles`
-Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable. The strikethrough packages are here for only taste, since my system requirements are continues wavering.
+Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable. The strikethrough packages are here for only taste, since my system requirements are continues wavering, these adjustments are happen to advance.
 
 **Core**
 - Boot Loader: `GRUB`
@@ -74,4 +74,4 @@ I would like to build my own Linux System, entirely from source code.
 Because, **every jedi crafts his own saber**, as a right of passage with naturally grown kybar crystals from planet Ilum.  
 **Motivation**: http://moebuntu.web.fc2.com/home_eng.html.
 
-<sub>remember dotfiles are meant to be forked.</sub>
+<sub>remember dotfiles are meant to be forked.</sub>;)
