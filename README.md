@@ -12,7 +12,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Icons: 
 - Panel-Bar: `i3status`
 - Shell: ~`bash`~ / ~`fish-shell`~ / `zsh` [via](https://ohmyz.sh/).
-- Terminal: st / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
+- Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
   - Patches:
     - Fonts: `Dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
     - scroolback w/ mouse
