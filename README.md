@@ -31,7 +31,7 @@
 // TODO : https://github.com/nbyouri/cliclock  
 // TODO : https://github.com/karlstav/cava  
 
-# What Do I Use?
+## What Do I Use?
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
 
 - Boot Loader: GRUB
@@ -64,7 +64,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - $PATH: ~/.scripts (custom)
 
 
-# How Do You Use?
+## How to Use?
 Put all `dotfiles/` under `home/` directory.
 ```shell
 ▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
@@ -74,7 +74,22 @@ Put all `dotfiles/` under `home/` directory.
 ```
 This will automatically backup existing settings.
 
-# [Screenshots](https://www.reddit.com/r/unixporn/)
+## `dotfiles` commands
+```
+▖~ dotfiles -h
+dotfiles version 0.1.6
+Usage: dotfiles [options] <...>
+
+OPTIONS:
+-h, --help                Show help and exit
+-V, --version             Show version information and exit
+-v, --verbose             Show progress bars and other extra information
+-vH, --verboseHigh        Show even more verbose
+-vHH, --verboseHighHigh   Show even even more verbose
+-d, --database            Show database
+```
+
+## [Screenshots](https://www.reddit.com/r/unixporn/)
 <details>
 <summary>more?</summary><br />
 
