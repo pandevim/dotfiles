@@ -18,7 +18,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-    - `~lolcat`~
+    - ~`lolcat`~
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
 - Compositor: ~`Compton`~
