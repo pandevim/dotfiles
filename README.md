@@ -18,32 +18,37 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-    - `lolcat`
+    - `~lolcat`~
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
-- Compositor: `Compton`
+- Compositor: ~`Compton`~
 - Browser: ~`Qutebrowser`~ / ~`Dillo`~ / `Firefox` / ~`Chromium`~ / ~`Vivaldi`~
 - Partition Manager: 
 - Virtual Machine: `QEMU` (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~
 - Version Control: `Git` / `Mercurial`
-- Network Manager: `NetworkManager` (nm-applet)
-- $PATH: ~/.scripts (custom)
+- Network Manager: `NetworkManager` (nm-applet)  
+
+**Custom**
+- $PATH: ~/.scripts (can be disables in install.py)
 
 
 ## How to Use?
-dotfiles installation sustain two mediums:
+Put all `dotfiles/` under `home/` directory. Installation sustain two mediums:
 - central
-- remote
-Put all `dotfiles/` under `home/` directory.
 ```shell
 ▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
 ▖~ cd dotfiles
 ▖~ ./install.py
-▖~ # enjoy your new fangled environment!
 ```
-This will automatically backup existing settings.
+- remote
+```shell
+▖~ cd dotfiles
+▖~ wget -O - --no-check-certificate https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/remote-install.py
+▖~ ./remote-install.py
+```
+This will automatically backup existing settings. Enjoy your new fangled environment!
 
 ## `dotfiles` commands
 ```
