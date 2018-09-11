@@ -64,7 +64,11 @@ OPTIONS:
 -v, --verbose             Show progress bars and other extra information
 -vH, --verboseHigh        Show even more verbose
 -vHH, --verboseHighHigh   Show even even more verbose
--d, --database            Show database
+-d, --database            Show database packages to be installed
+-t, --test                Run test
+-u, --update              Update packages
+-e, --edit                Edit dotfiles in your default editor/ide
+-c, --clean               Clean caches
 ```
 
 ## [Screenshots](https://www.reddit.com/r/unixporn/)
