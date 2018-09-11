@@ -1,36 +1,34 @@
-
-
-## What Do I Use?
+# `dotfiles`
 Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as **KISS** and customizable :
 
 **Core**
-- Boot Loader: GRUB
+- Boot Loader: `GRUB`
 - Dsk Environment:
-  - Display Server: Xorg
+  - Display Server: `Xorg`
   - Graphic Driver: 
-  - Display Manager: GDM
-  - Window Manager: i3-gaps
-- Widget Toolkit: GTK 
+  - Display Manager: `GDM`
+  - Window Manager: `i3-gaps`
+- Widget Toolkit: `GTK`
 - Icons: 
-- Panel-Bar: i3status
-- Shell: ~bash~ / ~fish-shell~ / zsh [via](https://ohmyz.sh/).
-- Terminal: st / ~Termite~ / ~Konsole~ / ~Urxvt~
+- Panel-Bar: `i3status`
+- Shell: ~`bash`~ / ~`fish-shell`~ / `zsh` [via](https://ohmyz.sh/).
+- Terminal: st / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
   - Patches:
-    - Fonts: Dejavu / ~Inconsolata~ / ~artwiz-drift~
+    - Fonts: `Dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
-    - lolcat
-- App Launcher: Dmenu / ~Rofi~
+    - `lolcat`
+- App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
-- Compositor: Compton
-- Browser: ~Qutebrowser~ / ~Dillo~ / Firefox / ~Chromium~ / ~Vivaldi~
+- Compositor: `Compton`
+- Browser: ~`Qutebrowser`~ / ~`Dillo`~ / `Firefox` / ~`Chromium`~ / ~`Vivaldi`~
 - Partition Manager: 
-- Virtual Machine: QEMU (w/ kvm + PCI passthrough since x86_64)
+- Virtual Machine: `QEMU` (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
-- Editor: Vim / ~Sublime~ / ~Neovim~
-- Version Control: Git / Mercurial
-- Network Manager: NetworkManager (nm-applet)
+- Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~
+- Version Control: `Git` / `Mercurial`
+- Network Manager: `NetworkManager` (nm-applet)
 - $PATH: ~/.scripts (custom)
 
 
