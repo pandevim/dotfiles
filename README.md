@@ -56,7 +56,7 @@ This will automatically backup existing settings. Enjoy your new fangled environ
 ```
 ▖~ dotfiles -h
 dotfiles version 0.1.6
-Usage: dotfiles [options] <...>
+Synopsis: dotfiles [options] <target>
 
 OPTIONS:
 -h, --help                Show help and exit
