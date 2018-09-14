@@ -37,19 +37,19 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 ## How to Use?
 Put all `dotfiles/` under `home/` directory. Installation sustain two mediums:
 - central
-```shell
-▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
-▖~ cd dotfiles
-▖~ ./install.py
-```
+  ```shell
+  ▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
+  ▖~ cd dotfiles
+  ▖~ ./install.py
+  ```
 - remote
-```shell
-▖~ cd dotfiles
-▖~ wget -O https://cdn.rawgit.com/aniruddha0pandey/dotfiles/master/remote-install.py
-▖~ # alternatively
-▖~ bash -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/remote-install.py?token=Adtp2Dp95KWhFVUTxRpySCgcC7pjJ04-ks5boWGewA%3D%3D`"
-▖~ ./remote-install.py
-```
+  ```shell
+  ▖~ cd dotfiles
+  ▖~ wget -O https://cdn.rawgit.com/aniruddha0pandey/dotfiles/master/remote-install.py
+  ▖~ # alternatively
+  ▖~ bash -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/remote-install.py?token=Adtp2Dp95KWhFVUTxRpySCgcC7pjJ04-ks5boWGewA%3D%3D`"
+  ▖~ ./remote-install.py
+  ```
 This will automatically backup existing settings. Enjoy your new fangled environment!
 
 ## `dotfiles` commands
