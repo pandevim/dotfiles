@@ -69,6 +69,7 @@ OPTIONS:
 -u, --update              Update packages
 -e, --edit                Edit dotfiles in your default editor/ide
 -c, --clean               Clean caches
+-b, --debug                   Display debug messages. When reporting bugs, this option is recommended to be used.
 ```
 
 ## [Screenshots](https://www.reddit.com/r/unixporn/)
