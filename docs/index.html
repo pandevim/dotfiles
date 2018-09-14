@@ -147,7 +147,7 @@ touch <name.extension>  # file
   
   sudo rm -rf /etc/pacman.d/gnupg
   sudo pacman-key --init
-  sudo pacman-key --populate #OR# sudo pacman-key --populate archlinux manjaro
+  sudo pacman-key --populate
   
   sudo pacman -Rdd package-query
   sudo pacman -Syu
@@ -155,6 +155,14 @@ touch <name.extension>  # file
   cd package-query && makepkg -si
   
   sudo rm /var/cache/pacman/pkg/badpackage*
+  
+  sudo pacman -Syy
+  sudo pacman -Sy archlinux-keyring manjaro-keyring
+  sudo pacman-key --populate archlinux manjaro
+  sudo pacman-key --refresh-keys
+  sudo pacman -Sc
+  sudo pacman -Syyu
+
 
  
 <h1> Konsole </h1>
