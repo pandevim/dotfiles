@@ -100,7 +100,7 @@ touch <name.extension>  # file
 <!-- access root previlage -->
   sudo su
 <!-- syncing database & update packages -->
-  pacman -Syu
+  pacman -Syu # Passing two -y flags will force a refresh of all package lists even if they appear to be up to date.
 <!-- kill program -->
   pstree -p
   kill ID
