@@ -22,7 +22,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
 - Compositor: ~`Compton`~
-- Browser: ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / `Firefox` / ~`Chromium`~ / ~`Vivaldi`~
+- Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~
 - Partition Manager: 
 - Virtual Machine: `QEMU` (w/ kvm + PCI passthrough since x86_64)
 - Spreadsheet: 
