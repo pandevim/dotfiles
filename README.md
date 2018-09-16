@@ -3,7 +3,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 
 **Core**
 - Boot Loader: `GRUB`
-- Dsk Environment:
+- Dsk Environment: ~`KDE`~
   - Display Server: `Xorg`
   - Graphic Driver: 
   - Display Manager: `GDM`
