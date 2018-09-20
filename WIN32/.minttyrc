@@ -1,0 +1,14 @@
+Transparency=low
+OpaqueWhenFocused=no
+CursorType=block
+Background=~/Pictures/Wallpapers/shootingStars.jpg
+# ThemeFile=dracula
+ForegroundColour=255,255,255
+BoldAsFont=no
+Font=Courier New
+FontHeight=12
+FontWeight=700
+FontIsBold=yes
+Columns=100
+Rows=25
+BackgroundColour=0,0,0
