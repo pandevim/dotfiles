@@ -85,9 +85,9 @@ OPTIONS:
 
 </details>
 
-# Future
-I would like to build my own Linux System, entirely from source code.
-Because, **every jedi crafts his own saber**, as a right of passage with naturally grown kybar crystals from planet Ilum.  
-**Motivation**: http://moebuntu.web.fc2.com/home_eng.html.
+# Later
+<p hidden>Compiling my own Linux System, entirely from source code.
+Because, `**every jedi crafts his own saber**`, as a right of passage with naturally grown kybar crystals from planet Ilum.  
+**Motivation**: http://moebuntu.web.fc2.com/home_eng.html.</p>
 
 ;)<sub>remember dotfiles are meant to be forked.</sub>
