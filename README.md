@@ -35,7 +35,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 
 
 ## How to Use?
-Put all `dotfiles/` under `home/` directory. Installation sustain two mediums:  
+Installing `dotfiles/` locally under `home/` directory. Installation sustain two mediums:  
 
 • Central
 ```shell
