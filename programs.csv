@@ -11,3 +11,4 @@ ncmpcpp, "MPD client","AUR",
 yay, "AUR-Helper / Wrapper","AUR",
 smartmontools, "S.M.A.R.T. component for storage devices.", "AUR",
 gnuplot, "Graphing Utility", ,
+i3, "Tiling Windows Manager", AUR, (gaps)(status)
