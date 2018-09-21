@@ -12,3 +12,4 @@ yay, "AUR-Helper / Wrapper","AUR",
 smartmontools, "S.M.A.R.T. component for storage devices.", "AUR",
 gnuplot, "Graphing Utility", ,
 vim, "Terminal based Text Editor", "AUR", vimty
+, , , goyo.vim
