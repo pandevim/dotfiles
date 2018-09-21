@@ -4,7 +4,7 @@ htop, "Analyse Resource Usage.",,
 iftop, "Analyse bandwidth Usage.",,
 xrandr, "Configuration utility to the RandR (Rotate and Resize) X Window System extension.",,
 dmenu, "Programs Launcher",,
-feh, "Image Viewer & Wallpaper Manager","AUR",python-autobgch
+feh, "Image Viewer & Wallpaper Manager","AUR", (python-autobgch)
 gschem, "Electronics Design Automation Tool",,
 ocp, "Open Cubic Player - Music Player",,
 ncmpcpp, "MPD client","AUR",
