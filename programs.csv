@@ -1,4 +1,5 @@
-Package, Description, Source,Patches (if any)
+Package, Description, Source,Patches/Plugins (if any)
+vim, "Terminal based Text Editor", "AUR", (vimty)(goyo.vim)
 htop, "Analyse Resource Usage.",,
 iftop, "Analyse bandwidth Usage.",,
 xrandr, "Configuration utility to the RandR (Rotate and Resize) X Window System extension.",,
@@ -10,4 +11,3 @@ ncmpcpp, "MPD client","AUR",
 yay, "AUR-Helper / Wrapper","AUR",
 smartmontools, "S.M.A.R.T. component for storage devices.", "AUR",
 gnuplot, "Graphing Utility", ,
-vim, "Terminal based Text Editor", "AUR", (vimty)(goyo.vim)
