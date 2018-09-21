@@ -13,12 +13,11 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Panel-Bar: `i3`
 - Shell: `zsh` / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
-  - Patches:
-    - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
-    - scroolback w/ mouse
-    - inc/dec font size
-    - transparent
-    - ~`lolcat`~
+   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
+   - scroolback w/ mouse
+   - inc/dec font size
+   - transparent
+   - ~`lolcat`~
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
 - Compositor: ~`Compton`~
