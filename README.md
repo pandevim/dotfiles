@@ -7,10 +7,10 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
   - Display Server: `Xorg`
   - Graphic Driver: 
   - Display Manager: `GDM`
-  - Window Manager: `i3-gaps` / ~`bspwm`~
+  - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~
 - Widget Toolkit: `GTK`
 - Icons: 
-- Panel-Bar: `i3-status`
+- Panel-Bar: `i3`
 - Shell: `zsh` [via](https://ohmyz.sh/) / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
   - Patches:
