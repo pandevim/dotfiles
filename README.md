@@ -10,7 +10,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
   - Window Manager: `i3-gaps` / ~`bspwm`~
 - Widget Toolkit: `GTK`
 - Icons: 
-- Panel-Bar: `i3status`
+- Panel-Bar: `i3-status`
 - Shell: `zsh` [via](https://ohmyz.sh/) / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
   - Patches:
