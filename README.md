@@ -14,7 +14,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Shell: `zsh` [via](https://ohmyz.sh/) / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~
   - Patches:
-    - Fonts: `Dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
+    - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
     - scroolback w/ mouse
     - inc/dec font size
     - transparent
