@@ -7,7 +7,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
   - Display Server: `Xorg`
   - Graphic Driver: 
   - Display Manager: `GDM`
-  - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~
+  - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
 - Widget Toolkit: `GTK`
 - Icons: 
 - Panel-Bar: `i3`
