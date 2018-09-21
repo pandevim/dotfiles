@@ -24,7 +24,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Compositor: ~`Compton`~
 - Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~
 - Partition Manager: 
-- Virtual Machine: `QEMU` (w/ kvm + PCI passthrough since x86_64)
+- Virtual Machine: `QEMU` (w/ kvm + PCI passthrough ∵ x86_64)
 - Spreadsheet: 
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~
 - Version Control: `Git` / ~`Mercurial`~
