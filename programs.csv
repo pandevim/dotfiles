@@ -5,7 +5,7 @@ vim, "Terminal based Text Editor", "AUR", (vimty)(goyo.vim)
 st, "Terminal Emulator", "AUR", (lolcat)
 htop, "Analyse Resource Usage.",,
 iftop, "Analyse bandwidth Usage.",,
-xrandr, "Configuration utility to the RandR (Rotate and Resize) X Window System extension.",,
+xrandr, "Configuration utility to RandR (extension for X)",,
 dmenu, "Programs Launcher",,
 feh, "Image Viewer & Wallpaper Manager","AUR", (python-autobgch)
 gschem, "Electronics Design Automation Tool",,
