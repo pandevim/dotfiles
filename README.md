@@ -13,7 +13,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Panel-Bar: `i3`
 - Shell: `zsh` / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~ / ~`cool-retro-term`~ / ~`kitty`~
-   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~
+   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
    - scroolback w/ mouse
    - inc/dec font size
    - transparent
