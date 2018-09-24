@@ -1,0 +1,7 @@
+# Personal Workflow Integration Scripts
+
+# Include Mirror list
+mirror.sh
+
+# Automate Wallpapers
+wall.py
