@@ -91,4 +91,4 @@ Because, **`every jedi crafts his own saber`**, as a right of passage with natur
 
 ##
 ;)<sub>remember dotfiles are meant to be forked.</sub>
-<code><p align='right'>~/.* with ♥</p></code>
+<p align='right'><code>~/.*</code> with ♥</p>
