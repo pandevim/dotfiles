@@ -24,7 +24,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Partition Manager: 
 - Virtual Machine: `QEMU` (w/ kvm + PCI passthrough ∵ x86_64)
 - Spreadsheet: 
-- Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~
+- Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~ / ~`SpaceVim`~
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` (nm-applet)  
 - IRC Client: `WeeChat` (bitlbee = discord, facebook, hangouts)/ ~`Irssi`~ / ~`BitchX`~
