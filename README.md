@@ -9,11 +9,11 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
   - Display Manager: `GDM`
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
 - Widget Toolkit: `GTK`
-- Icons: `Papirus` (Dark) / ~`flat-remix`~ (Main)
+- Icons: `Papirus` (Dark) / ~`flat-remix` (Main)~
 - Panel-Bar: `i3`
 - Shell: `zsh` / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~ / ~`cool-retro-term`~ / ~`kitty`~
-   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
+   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+` (Nerd Fonts)~
    - scroolback w/ mouse
    - inc/dec font size
    - transparent
