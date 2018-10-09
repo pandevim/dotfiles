@@ -38,7 +38,7 @@ Installing `dotfiles/` locally under `home/` directory. Installation sustain two
 
 • Central
 ```shell
-▖~ git clone --depth 1 https://github.com/aniruddha0pandey/dotfiles
+▖~ git clone --depth 1 git@github.com:aniruddha0pandey/dotfiles.git
 ▖~ cd dotfiles
 ▖~ ./install.py
 ```
