@@ -27,7 +27,7 @@ Here’s a list of what I’m using on my Arch GNU/Linux System. Managed using [
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~ / ~`SpaceVim`~
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager`(nm-applet)  
-- IRC Client: `WeeChat` (bitlbee = discord, facebook, hangouts)/ ~`Irssi`~ / ~`BitchX`~
+- IRC Client: `WeeChat` (bitlbee = discord, facebook, hangouts)/ ~`Irssi`~ / ~`BitchX`~ / ~`ChatZilla`~
 
 **Custom**
 - $PATH: `~/addon/.scripts` (can be [disabled](./install.py))
