@@ -8,6 +8,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Graphic Driver: 
   - Display Manager: `GDM`
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
+  - Compositor: ~`Compton`~
 - Widget Toolkit: `GTK`
 - Icons: `Papirus` (Dark) / ~`flat-remix`~(Main)
 - Panel-Bar: `i3`
@@ -19,7 +20,6 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
    - transparent
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
-- Compositor: ~`Compton`~
 - Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~
 - Partition Manager: 
 - Virtual Machine: `QEMU`(kvm + PCI passthrough ∵ x86_64)
