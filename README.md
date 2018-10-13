@@ -45,8 +45,7 @@ Installing `dotfiles/` locally under `home/` directory. Installation sustain two
 • Remote
 ```shell
 ▖~ cd dotfiles
-▖~ wget -O https://cdn.rawgit.com/aniruddha0pandey/dotfiles/master/remote-install.py
-▖~ # alternatively
+▖~ # wget -O https://cdn.rawgit.com/aniruddha0pandey/dotfiles/master/remote-install.py
 ▖~ bash -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/aniruddha0pandey/dotfiles/master/remote-install.py?token=Adtp2Dp95KWhFVUTxRpySCgcC7pjJ04-ks5boWGewA%3D%3D`"
 ▖~ ./remote-install.py
 ```
