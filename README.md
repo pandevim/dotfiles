@@ -84,7 +84,7 @@ OPTIONS:
 </details>
 
 ## Later
-Compiling, entirely from source code. Because, **`every jedi crafts his own saber`**.  
+Compiling, entirely from source code. Because, **`every jedi crafts his own saber`**.
 <!-- Motivation -->http://moebuntu.web.fc2.com/home_eng.html.
 
 ##
