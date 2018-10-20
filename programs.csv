@@ -17,3 +17,4 @@ gnuplot, "Graphing Utility", ,
 FIGlet, "Conglomerations ASCII Text Banner Generator", "http://www.figlet.org/", 
 PPTP, "Virtual Private Network", "AUR", 
 Spotify, "A digital music streaming service and player", "AUR", (zenity)(ffmpeg-compat-54)(spotblock)
+Miniconda, "Miniconda is a slimmed-down version of Anaconda", "https://conda.io/miniconda.html", (anaconda-clean)
