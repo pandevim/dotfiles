@@ -16,3 +16,4 @@ smartmontools, "S.M.A.R.T. component for storage devices.", "AUR",
 gnuplot, "Graphing Utility", ,
 FIGlet, "Conglomerations ASCII Text Banner Generator", "http://www.figlet.org/", 
 PPTP, "Virtual Private Network", "AUR", 
+Spotify, "A digital music streaming service and player", "AUR", (zenity)(ffmpeg-compat-54)(spotblock)
