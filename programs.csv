@@ -1,5 +1,5 @@
 Package, Description, Source Repo / Upstream, Patches / Plugins (if any)
-i3-gaps, "Tiling Windows Manager", Community, (gaps)(status)
+i3, "Tiling Windows Manager", Community, (gaps)(status)
 zsh, "Shell", Extra, (oh-my-zsh)(powerline-shell)
 vim, "Terminal based Text Editor", Extra, (vimty)(goyo.vim)
 st, "Terminal Emulator", AUR, (lolcat)
