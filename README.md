@@ -34,7 +34,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 
 
 ## How to Use?
-Installing `dotfiles/` locally under `home/` directory. Installation sustain two mediums:  
+Installing `dotfiles/` locally under `home/` directory, sustain two mediums:  
 
 • Central
 ```shell
