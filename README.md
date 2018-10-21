@@ -7,7 +7,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Display Server: `Xorg`
   - Graphic Driver: 
   - Display Manager: `GDM`
-  - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
+  - Window Manager: `i3-gaps` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
   - Compositor: ~`Compton`~
 - Widget Toolkit: `GTK`
 - Icons: `Papirus` (Dark) / ~`flat-remix`~(Main)
