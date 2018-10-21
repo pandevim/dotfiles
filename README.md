@@ -26,7 +26,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Spreadsheet: 
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~ / ~`SpaceVim`~
 - Version Control: `Git` / ~`Mercurial`~
-- Network Manager: `NetworkManager`(nm-applet)  
+- Network Manager: `NetworkManager` 
 - IRC Client: `WeeChat` (bitlbee = discord, facebook, hangouts)/ ~`Irssi`~ / ~`BitchX`~ / ~`ChatZilla`~
 
 **Custom**
