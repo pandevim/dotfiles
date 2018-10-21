@@ -1,7 +1,7 @@
 Package, Description, Source Repo / Upstream, Patches / Plugins (if any)
-i3, "Tiling Windows Manager", AUR, (gaps)(status)
-zsh, "Shell", AUR, (oh-my-zsh)(powerline-shell)
-vim, "Terminal based Text Editor", "AUR", (vimty)(goyo.vim)
+i3-gaps, "Tiling Windows Manager", "Community", (gaps)(status)
+zsh, "Shell", "Extra", (oh-my-zsh)(powerline-shell)
+vim, "Terminal based Text Editor", "Extra", (vimty)(goyo.vim)
 st, "Terminal Emulator", "AUR", (lolcat)
 htop, "Analyse Resource Usage.", "Extra",
 iftop, "Analyse bandwidth Usage.", "Community",
