@@ -5,7 +5,7 @@ vim, "Terminal based Text Editor", "Extra", (vimty)(goyo.vim)
 st, "Terminal Emulator", "AUR", (lolcat)
 htop, "Analyse Resource Usage.", "Extra",
 iftop, "Analyse bandwidth Usage.", "Community",
-xrandr, "Configuration utility to RandR (extension for X)",
+xorg-xrandr, "Configuration utility to RandR (extension for X)", "Extra", 
 dmenu, "Programs Launcher / Menu for X", "Community",
 feh, "Fast and light imlib2-based image viewer & wallpaper manager", "Extra",
 geda-gaf, "Electronics Design Automation Tool", "Community", (ttf-dejavu)(ttf-liberation)(pcb)
