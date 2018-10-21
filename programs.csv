@@ -14,7 +14,7 @@ ocp, "Open Cubic Player - Music Player", "AUR",
 ncmpcpp, "MPD client", "Community",
 yay, "AUR-Helper / pacman Wrapper","AUR",
 smartmontools, "S.M.A.R.T. component for storage devices.", "Extra",
-gnuplot, "Graphing Utility", "Extra",
+gnuplot, "Graphing utility which outputs to X11", "Extra",
 FIGlet, "Conglomerations ASCII Text Banner Generator", "http://www.figlet.org/", 
 networkmanager-pptp, "Virtual Private Network", "Extra", 
 Spotify, "A digital music streaming service and player", "AUR", (zenity)(ffmpeg-compat-54)(spotblock)
