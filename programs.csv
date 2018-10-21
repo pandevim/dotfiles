@@ -1,21 +1,22 @@
-Package, Description, Source,Patches/Plugins (if any)
+Package, Description, Source Repo,Patches/Plugins (if any)
 i3, "Tiling Windows Manager", AUR, (gaps)(status)
 zsh, "Shell", AUR, (oh-my-zsh)(powerline-shell)
 vim, "Terminal based Text Editor", "AUR", (vimty)(goyo.vim)
 st, "Terminal Emulator", "AUR", (lolcat)
-htop, "Analyse Resource Usage.",,
-iftop, "Analyse bandwidth Usage.",,
-xrandr, "Configuration utility to RandR (extension for X)",,
-dmenu, "Programs Launcher",,
-feh, "Image Viewer & Wallpaper Manager","AUR",
-gschem, "Electronics Design Automation Tool",,
-ocp, "Open Cubic Player - Music Player",,
-ncmpcpp, "MPD client","AUR",
-yay, "AUR-Helper / Wrapper","AUR",
-smartmontools, "S.M.A.R.T. component for storage devices.", "AUR",
-gnuplot, "Graphing Utility", ,
+htop, "Analyse Resource Usage.", "Extra",
+iftop, "Analyse bandwidth Usage.", "Community",
+xrandr, "Configuration utility to RandR (extension for X)",
+dmenu, "Programs Launcher / Menu for X", "Community",
+feh, "Fast and light imlib2-based image viewer & wallpaper manager", "Extra",
+geda-gaf, "Electronics Design Automation Tool", "Community", (ttf-dejavu)(ttf-liberation)(pcb)
+pcb, "Interactive printed circuit board editor", "Community",
+ocp, "Open Cubic Player - Music Player", "AUR",
+ncmpcpp, "MPD client","Community",
+yay, "AUR-Helper / pacman Wrapper","AUR",
+smartmontools, "S.M.A.R.T. component for storage devices.", "Extra",
+gnuplot, "Graphing Utility", "Extra",
 FIGlet, "Conglomerations ASCII Text Banner Generator", "http://www.figlet.org/", 
-PPTP, "Virtual Private Network", "AUR", 
+networkmanager-pptp, "Virtual Private Network", "Extra", 
 Spotify, "A digital music streaming service and player", "AUR", (zenity)(ffmpeg-compat-54)(spotblock)
 Miniconda, "Miniconda is a slimmed-down version of Anaconda", "https://conda.io/miniconda.html", (anaconda-clean)
-git, "A version-control system for tracking changes in computer files", ,(Sublime Merge)
+git, "A version-control system for tracking changes in computer files", "Extra", (Sublime Merge)
