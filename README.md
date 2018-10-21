@@ -30,7 +30,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - IRC Client: `WeeChat` (bitlbee = discord, facebook, hangouts)/ ~`Irssi`~ / ~`BitchX`~ / ~`ChatZilla`~
 
 **Custom**
-- $PATH: `~/addon/.scripts` (can be [disabled](./install.py))
+- $PATH: `~/.scripts` (can be [disabled](./install.py))
 
 
 ## How to Use?
