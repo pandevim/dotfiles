@@ -61,8 +61,8 @@ OPTIONS:
 -h, --help                Show help and exit
 -V, --version             Show version information and exit
 -v, --verbose             Show progress bars and other extra information
--vH, --verboseHigh        Show even more verbose
--vHH, --verboseHighHigh   Show even even more verbose
+-vH, --verboseHigh        Show a more verbose version
+-vHH, --verboseHighHigh   Show even more verbose
 -d, --database            Show installed packages, programs etc. 
 -t, --test                Run test
 -u, --update              Update packages
