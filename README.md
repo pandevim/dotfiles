@@ -1,5 +1,5 @@
 # `dotfiles`
-Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux system. Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as KISS and customizable. The strikethrough packages are here for only taste, since my system requirements are continues wavering, these adjustments are happen to advance.
+Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux system (or sometimes Manjaro on a lazy day). Managed using [thoughtbot](https://github.com/thoughtbot/rcm). I can claim it to be as KISS and customizable. The strikethrough packages are here for only taste, since my system requirements are continues wavering, these adjustments are happen to advance.
 
 **Core**
 - Boot Loader: `GRUB`
