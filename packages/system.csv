@@ -13,11 +13,13 @@ geda-gaf, "Electronics Design Automation Tool", Community, (ttf-dejavu)(ttf-libe
 pcb, "Interactive printed circuit board editor", Community,
 ocp, "Open Cubic Player - Music Player", AUR,
 ncmpcpp, "MPD client", Community,
-yay, "AUR-Helper / pacman Wrapper",AUR,
+yay, "AUR-Helper / pacman Wrapper", AUR,
 smartmontools, "S.M.A.R.T. component for storage devices.", Extra,
 gnuplot, "Graphing utility which outputs to X11", Extra,
-FIGlet, "Conglomerations ASCII Text Banner Generator", http://www.figlet.org/, 
+FIGlet, "Conglomerations ASCII Text Banner Generator", figlet.org/, 
 networkmanager-pptp, "Virtual Private Network", Extra, 
 Spotify, "A digital music streaming service and player", AUR, (zenity)(ffmpeg-compat-54)(spotblock)
-Miniconda, "Miniconda is a slimmed-down version of Anaconda", https://conda.io/miniconda.html, (anaconda-clean)
+Miniconda, "Miniconda is a slimmed-down version of Anaconda", conda.io/miniconda.html, (anaconda-clean)
 git, "A version-control system for tracking changes in computer files", Extra, (Sublime Merge)
+igdm, "Multi-platform Desktop application for Instagram DMs", github.com/ifedapoolarewaju/igdm,
+appimage, "Package desktop applications that run on Linux-y os", appimage.org,
