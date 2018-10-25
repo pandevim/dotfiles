@@ -8,7 +8,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Graphic Driver: 
   - Display Manager: `GDM`
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
-  - Compositor: ~`Compton`~
+  - Compositor: `sway` / ~`Compton`~
 - Widget Toolkit: `GTK`
 - Icons: `Papirus` (Dark) / ~`flat-remix`~(Main)
 - Panel-Bar: `i3`
