@@ -4,7 +4,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 **Core**
 - Boot Loader: `GRUB`
 - Dsk Environment: ~`KDE Plasma`~
-  - Display Server: `Xorg`
+  - Display Server: `Xorg (X11)` / ~`Wayland`~
   - Graphic Driver: 
   - Display Manager: `GDM`
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
