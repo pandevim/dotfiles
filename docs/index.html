@@ -165,6 +165,9 @@ touch <name.extension>  # file
 
   sudo pacman-mirrors -call
   sudo pacman -Syyu
+  
+  <!-- unable to lock database -->
+  sudo rm /var/lib/pacman/db.lck # while changing the database when pacman is interuppted, this stale lock file can remain undeleted.
  
 <h1> Konsole </h1>
   ctrl + shift + m  # menu
