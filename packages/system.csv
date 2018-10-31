@@ -1,6 +1,6 @@
 Package, Description, Source Repo / Upstream, Patches / Plugins (if any)
 i3, "Tiling Windows Manager", Community, (gaps)(status)
-networkmanager, "Network connection manager and user applications", Extra, (nm-applet)
+networkmanager, "Network connection manager and user applications", Extra, (nm-applet) (pptp)
 zsh, "Shell", Extra, (oh-my-zsh)(powerline-shell)
 vim, "Terminal based Text Editor", Extra, (vimty)(goyo.vim)(vimtex)
 st, "Terminal Emulator", AUR, (lolcat)
@@ -16,8 +16,7 @@ ncmpcpp, "MPD client", Community,
 yay, "AUR-Helper / pacman Wrapper", AUR,
 smartmontools, "S.M.A.R.T. component for storage devices.", Extra,
 gnuplot, "Graphing utility which outputs to X11", Extra,
-FIGlet, "Conglomerations ASCII Text Banner Generator", figlet.org/, 
-networkmanager-pptp, "Virtual Private Network", Extra, 
+FIGlet, "Conglomerations ASCII Text Banner Generator", figlet.org/,
 Spotify, "A digital music streaming service and player", AUR, (zenity)(ffmpeg-compat-54)(spotblock)
 Miniconda, "Miniconda is a slimmed-down version of Anaconda", conda.io/miniconda.html, (anaconda-clean)
 git, "A version-control system for tracking changes in computer files", Extra, (Sublime Merge)
