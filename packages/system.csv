@@ -25,3 +25,4 @@ igdm, "Multi-platform Desktop application for Instagram DMs", github.com/ifedapo
 appimage, "Package desktop applications that run on Linux-y os", appimage.org,
 usb-creator, "Create bootable USB from a LiveCD or disc image", AUR,
 zathura, "Functional document viewer", https://git.pwmt.org/pwmt/zathura,
+Wine, "Compatibility layer capable of running MS applications on Unix-like OS", Multilib,
