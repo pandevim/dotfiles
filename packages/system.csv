@@ -24,5 +24,6 @@ git, "A version-control system for tracking changes in computer files", Extra, (
 igdm, "Multi-platform Desktop application for Instagram DMs", github.com/ifedapoolarewaju/igdm,
 appimage, "Package desktop applications that run on Linux-y os", appimage.org,
 usb-creator, "Create bootable USB from a LiveCD or disc image", AUR,
-zathura, "Functional document viewer", https://git.pwmt.org/pwmt/zathura,
+zathura, "Functional document viewer", git.pwmt.org/pwmt/zathura,
 Wine, "A compatibility layer for running MS applications", Multilib, (wine-staging) (playonlinux)
+Archi, "ArchiMate® modelling lang is as Enterprise Architecture", archimatetool.com/,
