@@ -4,4 +4,4 @@
 | [wall.py](wall.py) || NA | Custome Wallpaper Manager
 | [iso.sh](iso.sh) || `curl` `grep`| Download Arch' Latest Realease
 | [includes.sh](includes.sh) || `wget` | Download `stdc++.h` Header for Competitive Programming
-| [ydaami.c](ydaami.c) ||| Make File / Project Folder Structure into txt or markdown format
+| [ydaami.c](ydaami.c) ||| Make Project File Structure into txt or markdown format
