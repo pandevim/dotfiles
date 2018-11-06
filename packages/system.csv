@@ -1,4 +1,4 @@
-Package, Description, Source Repo / Upstream, Patches / Plugins (if any)
+Package, Description, Source Repo / Upstream, Patches / Plugins
 i3, "Tiling Windows Manager", Community, (gaps)(status)
 networkmanager, "Network connection manager and user applications", Extra, (nm-applet) (pptp)
 zsh, "Shell", Extra, (oh-my-zsh)(powerline-shell)
