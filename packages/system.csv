@@ -19,7 +19,7 @@ gnuplot, "Graphing utility which outputs to X11", Extra,
 FIGlet, "Conglomerations ASCII Text Banner Generator", figlet.org/,
 Spotify, "A digital music streaming service and player", AUR, (zenity)(ffmpeg-compat-54)(spotblock)
 Miniconda, "Miniconda is a slimmed-down version of Anaconda", conda.io/miniconda.html, (anaconda-clean)
-git, "A version-control system for tracking changes in computer files", Extra, (Sublime Merge)
+git, "A version-control system for tracking changes in computer files", Extra, (Sublime Merge)(hub)
 igdm, "Multi-platform Desktop application for Instagram DMs", github.com/ifedapoolarewaju/igdm,
 appimage, "Package desktop applications that run on Linux-y os", appimage.org,
 usb-creator, "Create bootable USB from a LiveCD or disc image", AUR,
