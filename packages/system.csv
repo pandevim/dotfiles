@@ -2,7 +2,7 @@ Package, Description, Source Repo / Upstream, Patches / Plugins (if any)
 i3, "Tiling Windows Manager", Community, (gaps)(status)
 networkmanager, "Network connection manager and user applications", Extra, (nm-applet) (pptp)
 zsh, "Shell", Extra, (oh-my-zsh)(powerline-shell)
-vim, "Terminal based Text Editor", Extra, (vimty)(goyo.vim)(vimtex)(vim-sneak)
+vim, "Terminal based Text Editor", Extra, (vimty)(goyo.vim)(vimtex)(vim-sneak)(vim-syntax-extra)
 st, "Terminal Emulator", AUR, (lolcat)
 htop, "Analyse Resource Usage.", Extra,
 iftop, "Analyse bandwidth Usage.", Community,
