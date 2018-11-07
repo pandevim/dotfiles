@@ -25,5 +25,5 @@ appimage, "Package desktop applications that run on Linux-y os", appimage.org,
 usb-creator, "Create bootable USB from a LiveCD or disc image", AUR,
 zathura, "Functional document viewer", git.pwmt.org/pwmt/zathura,
 Wine, "A compatibility layer for running MS applications", Multilib, (wine-staging) (playonlinux)
-Archi, "ArchiMate® modelling lang is as Enterprise Architecture", archimatetool.com/,
-etcher, "Flash OS images to SD cards & USB drives", github.com/balena-io/etcher/releases,
+Archi, "ArchiMate® modelling lang is as Enterprise Architecture", archimatetool.com,
+etcher, "Flash OS images to SD cards & USB drives", github.com/balena-io/etcher,
