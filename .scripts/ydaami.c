@@ -3,3 +3,5 @@
 // t = text format
 // m = markdown
 // ! = NO STDOUT
+
+// https://gist.github.com/jiminald/1756076
