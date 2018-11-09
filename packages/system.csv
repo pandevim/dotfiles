@@ -29,3 +29,4 @@ Archi, "ArchiMate® modelling lang is as Enterprise Architecture", archimatetool
 etcher, "Flash OS images to SD cards & USB drives", github.com/balena-io/etcher,
 nvm, "Node Version Manager", AUR,
 npm, "Package manager for JavaScript", Community, (yarn)
+tree, "Directory listing program displaying a depth indented list of files", Extra, 
