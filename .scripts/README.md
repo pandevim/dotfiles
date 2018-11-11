@@ -5,3 +5,4 @@
 | [iso.sh](iso.sh) || `curl` `grep`| Download Arch' Latest Realease
 | [includes.sh](includes.sh) || `wget` | Download `stdc++.h` Header for Competitive Programming
 | [ydaami.c](ydaami.c) ||| Make Project File Structure into txt or markdown format
+| [anahí-powershell.zsh](anahí-powershell.zsh) ||| Custom augment for shell
