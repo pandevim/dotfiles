@@ -32,4 +32,5 @@ npm, "Package manager for JavaScript", Community, (yarn)
 tree, "Directory listing program displaying a depth indented list of files", Extra,
 arduino-cli, "Arduino command line interface", Community,
 tldr, "Simplified and community-driven man pages", github.com/tldr-pages/tldr,
+borg, "Deduplicating backup program", Community,
 
