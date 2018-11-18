@@ -12,6 +12,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Widget Toolkit: `GTK`
 - Icons: `Papirus (Dark)` / ~`flat-remix (Main)`~
 - Panel-Bar: `i3`
+- Notification Daemon: `Dunst`
 - Shell: `zsh` / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~ / ~`cool-retro-term`~ / ~`kitty`~
    - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
