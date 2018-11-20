@@ -7,3 +7,4 @@
 | [ydaami.c](ydaami.c) ||| Make Project File Structure into txt or markdown format
 | [anahí.zsh](anahí-powershell.zsh) ||| Custom powershell augment for shell
 | [routine.sh](routine.sh) ||| Subtasks or Routines run on startup
+| [arkmn.sh](arkmn.sh) ||| Animated Wallpaper Generator
