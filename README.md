@@ -88,4 +88,5 @@ OPTIONS:
 Compiling, entirely from source code. Because, **`every jedi crafts his own saber`**.
 <!-- Motivation -->http://moebuntu.web.fc2.com/home_eng.html.
 ##
-<sub>remember, dotfiles are meant to be forked</sub>;)<p align='right'><code>~/.*</code> with ♥</p>
+<sub>remember, dotfiles are meant to be forked</sub>;)
+<p align='right'><code>~/.*</code> with ♥</p>
