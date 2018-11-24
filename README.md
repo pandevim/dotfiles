@@ -11,7 +11,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Compositor: `sway` / ~`Compton`~
 - Widget Toolkit: `GTK`
 - Icons: `Papirus (Dark)` / ~`flat-remix (Main)`~
-- Panel-Bar: `i3`
+- Panel-Bar: `i3` / ~`tint2`~
 - Notification Daemon: `Dunst`
 - Shell: `zsh` / ~`fish-shell`~
 - Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~ / ~`cool-retro-term`~ / ~`kitty`~
