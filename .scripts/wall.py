@@ -1,1 +1,1 @@
-# scrape behance, etc online for wallpapers
+# scrape behance, deviant art, etc online for wallpapers
