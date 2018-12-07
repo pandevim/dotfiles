@@ -21,3 +21,9 @@ VIRTUALENV = 'https://raw.github.com/pypa/virtualenv/1.10/virtualenv.py'
 
 if __name__ == '__main__':
     main()
+
+
+# https://stevenrbaker.com/tech/managing-dotfiles-with-gnu-stow.html
+# https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+# https://github.com/Siilwyn/my-dotfiles/tree/master/.my-dotfiles
+# https://github.com/TheLocehiliosan/yadm
