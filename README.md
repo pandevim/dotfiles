@@ -21,7 +21,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
    - transparent
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
-- Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~
+- Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~ 
 - Partition Manager: 
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
