@@ -34,4 +34,4 @@ arduino-cli, "Arduino command line interface", Community,
 tldr, "Simplified and community-driven man pages", github.com/tldr-pages/tldr,
 borg, "Deduplicating backup program", Community,
 up, "Live preview for grep, sort, etc.", github.com/akavel/up, 
-
+calcurse, "Calendar and Scheduling", calcurse.org, 
