@@ -26,6 +26,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Partition Manager: `GParted`
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
+- System Monitor: `htop` / ~`gtop`~ / ~`vtop`~ / ~`gotop`~
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~ / ~`SpaceVim`~
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` 
