@@ -7,6 +7,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Display Server: `Xorg (X11)` / ~`Wayland`~
   - Graphic Driver: 
   - Display Manager: `GDM`
+  - File Manager: `ranger`
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
   - Compositor: `sway` / ~`Compton`~
 - Widget Toolkit: `GTK`
@@ -22,7 +23,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Files: 
 - Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~ 
-- Partition Manager: 
+- Partition Manager: `GParted`
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
 - Editor: `Vim` / ~`Sublime`~ / ~`Neovim`~ / ~`SpaceVim`~
