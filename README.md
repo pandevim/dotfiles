@@ -72,7 +72,7 @@ OPTIONS:
 -e,   --edit,                Edit dotfiles in your default editor/ide
 -c,   --clean,               Clean caches
 -b,   --debug,               Display debug messages (recommended option while reporting bugs)
-________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________
   _______________
 < btw, i use arch >
   ---------------
