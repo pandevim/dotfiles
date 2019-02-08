@@ -8,6 +8,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Graphic Driver: 
   - Display Manager: `GDM`
   - File Manager: `ranger`
+  - FUSE: ``
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
   - Compositor: `sway` / ~`Compton`~
 - Widget Toolkit: `GTK`
