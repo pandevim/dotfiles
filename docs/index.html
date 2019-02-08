@@ -52,7 +52,10 @@ touch <name.extension>  # file
   git pull origin master -v                       # upgrade
   git rm -r --cached .                            # and again add all to fix errors on which file is tracked. i.e fix gitignore
   git clone --single-branch --branch <branch-name> <remote-link>
-  git config --global http.proxy <proxy-url>
+  
+  git config --show-origin http.proxy # check
+  git config --global http.proxy <proxy-url> # change
+  
   
   git checkout -b [name_of_your_new_branch]
   git push origin [name_of_your_new_branch]
