@@ -1,4 +1,5 @@
 # scrape behance, deviant art, etc online for wallpapers
+# https://unsplash.com/developers
 
 oldfile = open("oldfile.txt", "r")
 newfile = open("newfile.txt", "w")
