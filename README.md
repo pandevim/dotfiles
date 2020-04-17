@@ -28,7 +28,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
 - System Monitor: `htop` / ~`gtop`~ / ~`vtop`~ / ~`gotop`~
-- Editor: `Vim` / ~[`Left`](https://github.com/hundredrabbits/Left)~ / ~[`Sublime`](http://www.sublimetext.com/)~ / ~[`Neovim`](https://github.com/neovim/neovim)~ / ~[`SpaceVim`](https://github.com/SpaceVim/SpaceVim)~
+- Editor: [`Vim`](https://github.com/vim/vim) / ~[`Left`](https://github.com/hundredrabbits/Left)~ / ~[`Sublime`](http://www.sublimetext.com/)~ / ~[`Neovim`](https://github.com/neovim/neovim)~ / ~[`SpaceVim`](https://github.com/SpaceVim/SpaceVim)~ / ~[`vscode`](https://github.com/microsoft/vscode)~
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` 
 - IRC Client: `WeeChat (bitlbee = discord, facebook, hangouts)` / ~`Irssi`~ / ~`BitchX`~ / ~`ChatZilla`~
