@@ -7,7 +7,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Display Server: `Xorg (X11)` / ~`Wayland`~
   - Graphic Driver: 
   - Display Manager: `GDM`
-  - File Manager: `ranger`
+  - File Manager: [`ranger`](https://github.com/ranger/ranger)
   - FUSE: 
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
   - Compositor: `sway` / ~`Compton`~
@@ -22,7 +22,6 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
    - inc/dec font size
    - transparent
 - App Launcher: `Dmenu` / ~`Rofi`~
-- Files: 
 - Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~ 
 - Partition Manager: `GParted`
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
