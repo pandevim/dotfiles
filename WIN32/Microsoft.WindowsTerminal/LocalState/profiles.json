@@ -1,4 +1,8 @@
 
+
+// [guid]::NewGuid()
+// creat new guid
+
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 
@@ -39,8 +43,15 @@
         	"guid": "{cc5595aa-0dce-4d15-add9-4bf5f3bf12de}",
         	"hidden": false,
         	"name": "Git Bash",
-        	"commandline": "\"C:\\Program Files\\Git\\bin\\sh.exe\"-i -l",
+            "commandline": "\"C:\\Program Files\\Git\\bin\\bash.exe\"-i -l",
         	"icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico"
+        },
+        {
+            "guid": "{d765c23f-fca0-4646-ab71-7e77764bab1f}",
+            "hidden": false,
+            "name": "Docker Toolbox",
+        	"commandline": "\"C:\\Program Files\\Git\\bin\\bash.exe\" --login -i \"H:\\Docker Toolbox\\start.sh\"",
+            "icon": "H:\\Docker Toolbox/docker-quickstart-terminal.ico"
         },
         {
         	"guid": "{876fe2b7-bb8e-4566-be38-3340e9e557f7}",
