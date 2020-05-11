@@ -9,3 +9,5 @@
 | [anahí.zsh](anahí.zsh) ||| Custom powershell augment for shell
 | [routine.sh](routine.sh) ||| Subtasks or Routines run on startup
 | [arkmn.sh](arkmn.sh) ||| Animated Wallpaper Generator
+| [github_keys.sh](github_keys.sh) ||| A command line utility to add ssh keys on Github
+| [github_pages.sh](github_pages.sh) ||| A command line utility to enable github pages
