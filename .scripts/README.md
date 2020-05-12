@@ -1,6 +1,6 @@
 | Script | Python Packages | Distro Packages | Description
 | - | - | - | -
-| [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq`| A command line utility to download scripts from @pandevim/dotfiles
+| [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq` | A command line utility to download scripts from @pandevim/dotfiles
 ---
 | Script | Python Packages | Distro Packages | Description
 | - | - | - | -
@@ -13,5 +13,5 @@
 | [anahí.zsh](anahí.zsh) ||| Custom powershell augment for shell
 | [routine.sh](routine.sh) ||| Subtasks or Routines run on startup
 | [arkmn.sh](arkmn.sh) ||| Animated Wallpaper Generator
-| [github_keys.sh](github_keys.sh) || `hostname` `cat` `curl` `jq`| A command line utility to add ssh keys on Github
-| [github_pages.sh](github_pages.sh) ||| A command line utility to enable github pages
+| [github_keys.sh](github_keys.sh) || `hostname` `cat` `curl` `jq` | A command line utility to add ssh keys on Github
+| [github_pages.sh](github_pages.sh) || `curl` `jq` | A command line utility to enable github pages
