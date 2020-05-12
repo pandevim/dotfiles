@@ -30,7 +30,7 @@ if [ -z $3 ]; then keys="$(cat ~/.ssh/id_rsa.pub)"; else keys="$(cat $3)"; fi
 
 case $1 in
 
-	--add | -a )
+	--push | -p )
 		data="{\"title\":\"$title\",\"key\":\"$keys\"}"
 		res=$(curl -s -H "$auth_header" --data "$data" "$api" | jq -r '.verified')
 		if [ "$res" == "true" ]; then echo "[0;32myou did it! 👍[0m"
