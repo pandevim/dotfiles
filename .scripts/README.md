@@ -1,9 +1,9 @@
-|  |  |
-| - | - |
-| [download_scripts.sh](download_scripts.sh) | A command line utility to download scripts from @pandevim/dotfiles
+| Script | Python Packages | Distro Packages | Description
+| - | - | - | -
+| [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq`| A command line utility to download scripts from @pandevim/dotfiles
 ---
 | Script | Python Packages | Distro Packages | Description
-| - | - | - | - |
+| - | - | - | -
 | [mirror.sh](mirror.sh) | NA || Update Mirror List
 | [wall.py](wall.py) || NA | Custome Wallpaper Manager
 | [theme.py](theme.py) || NA | Custome Theme Manager
@@ -13,5 +13,5 @@
 | [anahí.zsh](anahí.zsh) ||| Custom powershell augment for shell
 | [routine.sh](routine.sh) ||| Subtasks or Routines run on startup
 | [arkmn.sh](arkmn.sh) ||| Animated Wallpaper Generator
-| [github_keys.sh](github_keys.sh) ||| A command line utility to add ssh keys on Github
+| [github_keys.sh](github_keys.sh) || `hostname` `cat` `curl` `jq`| A command line utility to add ssh keys on Github
 | [github_pages.sh](github_pages.sh) ||| A command line utility to enable github pages
