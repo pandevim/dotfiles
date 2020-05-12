@@ -34,8 +34,6 @@ case $1 in
 			then 
 				url=$(echo "$res" | jq --raw-output '.[] | select(.name=='\"$file\"') | .download_url')
 				curl -s --compressed --create-dirs -o "./scripts/$file" "$url"
-				echo "curl value"
-				echo $?
 				if [ $? == 0 ]; then 
 					echo "[0;32m$file 🤙[0m"
 					chmod +x "./scripts/$file"
