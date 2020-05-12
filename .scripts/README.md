@@ -1,3 +1,6 @@
+> ⚠️ [`ACCESS_TOKEN`](https://github.com/settings/tokens) is required in `.env` file for github scripts.
+
+
 | Script | Python Packages | Distro Packages | Description
 | - | - | - | -
 | [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq` | A command line utility to download scripts from @pandevim/dotfiles
