@@ -8,7 +8,7 @@ version=0.0.1
 
 help_text="
 NAME:
-	download_scripts - A command line utility to download scripts from @pandevim/dotfiles/.scripts
+	download_scripts - A command line utility to download scripts from @pandevim/dotfiles
 USAGE:
 	download_scripts [OPTIONS] <NAME>
 VERSION:
