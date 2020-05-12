@@ -1,5 +1,6 @@
 | Script | Python Packages | Distro Packages | Description
 | - | - | - | - |
+| [download_scripts.sh](download_scripts.sh) ||| A command line utility to download scripts from @pandevim/dotfiles
 | [mirror.sh](mirror.sh) | NA || Update Mirror List
 | [wall.py](wall.py) || NA | Custome Wallpaper Manager
 | [theme.py](theme.py) || NA | Custome Theme Manager
