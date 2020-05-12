@@ -33,10 +33,10 @@ case $1 in
 			if [ ! "$file" == "--add" ]
 			then 
 				url=$(echo "$res" | jq --raw-output '.[] | select(.name=='\"$file\"') | .download_url')
-				curl -s --compressed --create-dirs -o "./scripts/$file" "$url"
+				curl -s --compressed --create-dirs -o "scripts/$file" "$url"
 				if [ $? == 0 ]; then 
 					echo "[0;32m$file 🤙[0m"
-					chmod +x "./scripts/$file"
+					chmod +x "scripts/$file"
 				else echo "[0;31mwrong file name, maybe? 🤔[0m"; fi
 			fi
 		 done
