@@ -10,7 +10,7 @@ case $description in
 		project_name=${hash#*= }
 		mkdir "$description"
 		cd "$description"
-		echo "This project is generate using [gh-spin](pandevim/dotfiles/blob/master/.scripts/gh-spin.sh) script." >> README.md
+		echo "This project is generate using [gh-spin](https://github.com/pandevim/dotfiles/blob/master/.scripts/gh-spin.sh) script." >> README.md
 		hub init
 		hub create "$project_name" -d "$description"
 		;;
