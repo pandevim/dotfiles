@@ -18,3 +18,7 @@
 | [arkmn.sh](arkmn.sh) ||| Animated Wallpaper Generator
 | [github_keys.sh](github_keys.sh) || `hostname` `cat` `curl` `jq` | A command line utility to add ssh keys on Github
 | [github_pages.sh](github_pages.sh) || `curl` `jq` | A command line utility to enable github pages
+| [gh-spin.sh](gh-spin.sh) || `curl` `hub` `openssl` | A command line utility to setup new github projects quickly
+
+
+
