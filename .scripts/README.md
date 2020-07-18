@@ -3,7 +3,8 @@
 
 | Script | Python Packages | Distro Packages | Description | Example
 | - | - | - | - | -
-| [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq` | A command line utility to download scripts from @pandevim/dotfiles
+| [download_scripts.sh](download_scripts.sh) | NA | `curl` `jq` | A command line utility to download scripts from @pandevim/dotfiles/.scripts |
+| [run-scripts.sh](run-scripts.sh) | NA | NA | A command line utility to run scripts directly from @pandevim/dotfiles/.scripts |
 ---
 | Script | Python Packages | Distro Packages | Description | Example
 | - | - | - | - | -
