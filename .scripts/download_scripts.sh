@@ -52,3 +52,5 @@ case $1 in
 		;;
 
 esac
+
+# https://github.com/basherpm/basher
