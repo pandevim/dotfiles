@@ -31,6 +31,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` 
 - IRC Client: `WeeChat (bitlbee = discord, facebook, hangouts)` / ~`Irssi`~ / ~`BitchX`~ / ~`ChatZilla`~
+- Search: [`ripgrep`](https://github.com/BurntSushi/ripgrep) / ~[`the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)~ / ~[`ack3`](https://github.com/beyondgrep/ack3/)~ / ~[`grep`](https://github.com/zevweiss/grep)~
 
 **Custom**
 - $PATH: `~/.scripts` (can be [disabled](./install.py))
