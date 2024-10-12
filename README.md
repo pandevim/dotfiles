@@ -17,11 +17,8 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Notification Daemon: `Dunst`
 - Prompt: `oh-my-posh`
 - Shell: `zsh`
+- Font: `Nerdfont (Meslo)`
 - Terminal Emulator: `kitty` / `st` / `cool-retro-term`
-   - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
-   - scroolback w/ mouse
-   - inc/dec font size
-   - transparent
 - App Launcher: `Dmenu` / ~`Rofi`~
 - Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~ 
 - Partition Manager: `GParted`
