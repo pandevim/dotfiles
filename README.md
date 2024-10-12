@@ -3,14 +3,13 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 
 **Core**
 - Boot Loader: `GRUB`
-- Dsk Environment: ~`KDE Plasma`~
-  - Display Server: `Xorg (X11)` / ~`Wayland`~
-  - Graphic Driver: 
-  - Display Manager: `GDM`
-  - File Manager: [`ranger`](https://github.com/ranger/ranger)
-  - FUSE: 
-  - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
-  - Compositor: `sway` / ~`Compton`~
+- Display Server: `Xorg (X11)` / ~`Wayland`~
+- Graphic Driver: 
+- Display Manager: `GDM`
+- Terminal File Manager: `yazi` / `vifm`
+- FUSE: 
+- Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
+- Compositor: `sway` / ~`Compton`~
 - Text Editor: `Neovim` / `VS Code`
   - Statusline: `galaxyline.nvim`
   - Motion: `flash.nvim`
