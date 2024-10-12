@@ -18,6 +18,10 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Surround actions: `nvim-surround`
   - LSP: `mason.nvim`
   - Fuzzy Finder: `telescope.nvim`
+  - Formatter: `conform.nvim`
+  - Autocompletion: `nvim-cmp` / ~`coq.nvim`~
+  - Colorscheme: `tokyonight.nvim`
+  - Syntax Tree: `nvim-treesitter`
 - Widget Toolkit: `GTK`
 - Icons: `Papirus (Dark)` / ~`flat-remix (Main)`~
 - Panel-Bar: `i3` / ~`tint2`~
