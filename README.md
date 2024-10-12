@@ -15,7 +15,8 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Icons: `Papirus (Dark)` / ~`flat-remix (Main)`~
 - Panel-Bar: `i3` / ~`tint2`~
 - Notification Daemon: `Dunst`
-- Shell: `zsh` / ~`fish-shell`~
+- Prompt: `oh-my-posh`
+- Shell: `zsh`
 - Terminal Emulator: `kitty` / `st` / `cool-retro-term`
    - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
    - scroolback w/ mouse
