@@ -16,7 +16,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Panel-Bar: `i3` / ~`tint2`~
 - Notification Daemon: `Dunst`
 - Shell: `zsh` / ~`fish-shell`~
-- Terminal: `st` / ~`Termite`~ / ~`Konsole`~ / ~`Urxvt`~ / ~`cool-retro-term`~ / ~`kitty`~
+- Terminal Emulator: `kitty` / `st` / `cool-retro-term`
    - Fonts: `ttf-dejavu` / ~`Inconsolata`~ / ~`artwiz-drift`~ / ~`M+ (Nerd Fonts)`~
    - scroolback w/ mouse
    - inc/dec font size
@@ -26,7 +26,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Partition Manager: `GParted`
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
-- System Monitor: `htop` / ~`gtop`~ / ~`vtop`~ / ~`gotop`~
+- System Monitor: `bpytop`
 - Editor: [`Vim`](https://github.com/vim/vim) / ~[`Left`](https://github.com/hundredrabbits/Left)~ / ~[`Sublime`](http://www.sublimetext.com/)~ / ~[`Neovim`](https://github.com/neovim/neovim)~ / ~[`SpaceVim`](https://github.com/SpaceVim/SpaceVim)~ / ~[`vscode`](https://github.com/microsoft/vscode)~
 - Version Control: `Git` / ~`Mercurial`~
 - Network Manager: `NetworkManager` 
