@@ -11,6 +11,13 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - FUSE: 
   - Window Manager: `i3` / ~`bspwm`~ / ~`Awesome`~ / ~`dwm`~
   - Compositor: `sway` / ~`Compton`~
+- Text Editor: `Neovim` / `VS Code`
+  - Statusline: `galaxyline.nvim`
+  - Motion: `flash.nvim`
+  - Plugin Manager: `lazy.nvim`
+  - Surround actions: `nvim-surround`
+  - LSP: `mason.nvim`
+  - Fuzzy Finder: `telescope.nvim`
 - Widget Toolkit: `GTK`
 - Icons: `Papirus (Dark)` / ~`flat-remix (Main)`~
 - Panel-Bar: `i3` / ~`tint2`~
