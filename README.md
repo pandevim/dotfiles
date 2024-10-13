@@ -15,10 +15,12 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Motion: `flash.nvim`
   - Plugin Manager: `lazy.nvim`
   - Surround actions: `nvim-surround`
-  - LSP: `mason.nvim`
+  - Package Manager: `mason.nvim`
+    - `lua-language-server`
   - Fuzzy Finder: `telescope.nvim`
   - Formatter: `conform.nvim`
-      - Package: `prettierd` / `stylua`
+    - `prettierd`
+    - `stylua`
   - Autocompletion: `nvim-cmp` / ~`coq.nvim`~
   - Comments: `todo-comments.nvim` / `Comment.nvim`
   - Colorscheme: `tokyonight.nvim`
