@@ -18,7 +18,9 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - LSP: `mason.nvim`
   - Fuzzy Finder: `telescope.nvim`
   - Formatter: `conform.nvim`
+      - Package: `prettierd` / `stylua`
   - Autocompletion: `nvim-cmp` / ~`coq.nvim`~
+  - Comments: `todo-comments.nvim` / `Comment.nvim`
   - Colorscheme: `tokyonight.nvim`
   - Syntax Tree: `nvim-treesitter`
 - Widget Toolkit: `GTK`
