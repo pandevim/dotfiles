@@ -36,7 +36,8 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Font: `Nerdfont (Meslo)`
 - Terminal Emulator: `kitty` / `st` / `cool-retro-term`
 - App Launcher: `Dmenu` / ~`Rofi`~
-- Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~ 
+- Browser: `Firefox` / ~`w3m`~ / ~`Qutebrowser`~ / ~`Dillo`~ / ~`min`~ / ~`browsh`~ / ~`IceCat`~ / ~`Brave`~
+  - about:config: layout.css.devPixelsPerPx (1.5) default (-1.0)
 - Partition Manager: `GParted`
 - Virtual Machine: `QEMU (kvm + PCI passthrough ∵ x86_64)`
 - Spreadsheet: 
