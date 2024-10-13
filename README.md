@@ -32,7 +32,7 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
 - Panel-Bar: `i3` / ~`tint2`~
 - Notification Daemon: `Dunst`
 - Prompt: `oh-my-posh`
-- Shell: `zsh`
+- Shell: `zsh (Oh My Zsh)`
 - Font: `Nerdfont (Meslo)`
 - Terminal Emulator: `kitty` / `st` / `cool-retro-term`
 - App Launcher: `Dmenu` / ~`Rofi`~
