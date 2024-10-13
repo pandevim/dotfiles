@@ -18,6 +18,8 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Package Manager: `mason.nvim`
     - `lua-language-server`
   - Fuzzy Finder: `telescope.nvim`
+  - Icon: `nvim-web-devicons`
+  - File Explorer: `nvim-tree`
   - Formatter: `conform.nvim`
     - `prettierd`
     - `stylua`
