@@ -23,6 +23,8 @@ Here’s a list my secret treasure trove, what I’m using on my Arch GNU/Linux 
   - Formatter: `conform.nvim`
     - `prettierd`
     - `stylua`
+  - Snippet Engine: `LuaSnip`
+  - Snippets collection: `friendly-snippets`
   - Autocompletion: `nvim-cmp` / ~`coq.nvim`~
   - Comments: `todo-comments.nvim` / `Comment.nvim`
   - Colorscheme: `tokyonight.nvim`
