@@ -1,14 +1,4 @@
-# scrape behance, deviant art, etc online for wallpapers
-# https://unsplash.com/developers
-
-oldfile = open("oldfile.txt", "r")
-newfile = open("newfile.txt", "w")
-
-while True:
-	line = oldfile.readline()
-	if line.find('#'): newfile.write(line)
-	if not line: break
-
-oldfile.close()
-newfile.close()
+# https://github.com/pandevim/wallpapers
+# https://github.com/terroo/wallset/blob/master/install.sh
+# https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/back4.sh
 
