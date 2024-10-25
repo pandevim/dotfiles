@@ -28,3 +28,5 @@ if __name__ == '__main__':
 # https://github.com/Siilwyn/my-dotfiles/tree/master/.my-dotfiles
 # https://github.com/TheLocehiliosan/yadm
 # https://www.reddit.com/r/archlinux/comments/a3zli3/can_someone_explain_hosting_dotfiles_on_github/
+# https://github.com/lukesmithxyz/voidrice
+# https://github.com/iosifv/genesis
