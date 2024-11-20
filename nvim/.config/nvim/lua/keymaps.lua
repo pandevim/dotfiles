@@ -71,25 +71,38 @@ vim.opt.inccommand = "split"
 vim.opt.cursorline = true
 
 -- Minimal number of screen lines to keep above and below the cursor.
-vim.opt.scrolloff = 10
+vim.opt.scrolloff = 8
 
--- ts: Number of spaces a tab character represents
+-- Number of spaces a tab character represents
 vim.opt.tabstop = 2
 
--- sts: Number of spaces inserted with Tab key
+-- Number of spaces inserted with Tab key
 vim.opt.softtabstop = 2
 
--- sw: Number of spaces used for autoindentation
+-- Number of spaces used for autoindentation
 vim.opt.shiftwidth = 2
 
--- et: Use spaces instead of tabs
+-- Use spaces instead of tabs
 vim.opt.expandtab = true
 
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
+-- Move Text
+vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
+vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
+
+-- Keep cursor in middle while doing scroll
+vim.keymap.set("n", "<C-d>", "<C-d>zz")
+vim.keymap.set("n", "<C-u>", "<C-u>zz")
+
+-- Keep cursor in middle while doing search
+vim.keymap.set("n", "n", "nzzzv")
+vim.keymap.set("n", "N", "Nzzzv")
+
 -- Set highlight on search, but clear on pressing <Esc> in normal mode
 vim.opt.hlsearch = true
+vim.opt.incsearch = true
 vim.keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR>")
 
 -- Diagnostic keymaps
