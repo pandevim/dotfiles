@@ -2,6 +2,10 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
+-- disable netrw since using nvim-tree
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
+
 -- Set to true if you have a Nerd Font installed
 vim.g.have_nerd_font = true
 
@@ -29,6 +33,9 @@ vim.opt.clipboard = "unnamedplus"
 
 -- Enable break indent
 vim.opt.breakindent = true
+
+-- enable 24-bit colour
+vim.opt.termguicolors = true
 
 -- Save undo history
 vim.opt.undofile = true
@@ -66,6 +73,18 @@ vim.opt.cursorline = true
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.opt.scrolloff = 10
 
+-- ts: Number of spaces a tab character represents
+vim.opt.tabstop = 2
+
+-- sts: Number of spaces inserted with Tab key
+vim.opt.softtabstop = 2
+
+-- sw: Number of spaces used for autoindentation
+vim.opt.shiftwidth = 2
+
+-- et: Use spaces instead of tabs
+vim.opt.expandtab = true
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
@@ -95,4 +114,3 @@ vim.keymap.set("n", "<leader>h", "<C-w><C-h>", { desc = "Move focus to the left 
 vim.keymap.set("n", "<leader>l", "<C-w><C-l>", { desc = "Move focus to the right window" })
 vim.keymap.set("n", "<leader>j", "<C-w><C-j>", { desc = "Move focus to the lower window" })
 vim.keymap.set("n", "<leader>k", "<C-w><C-k>", { desc = "Move focus to the upper window" })
-
