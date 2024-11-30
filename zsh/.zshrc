@@ -84,6 +84,7 @@ source $ZSH/oh-my-zsh.sh
 export LANG=en_US.UTF-8
 
 export EDITOR='nvim'
+export VISUAL='nvim'
 export TERM='xterm-256color'
 
 # Compilation flags

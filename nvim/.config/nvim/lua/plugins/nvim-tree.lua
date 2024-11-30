@@ -16,8 +16,8 @@ return { -- File explorer
 			view = {
 				side = "right",
 				preserve_window_proportions = true,
-				adaptive_size = true,
-				-- height = 20,
+				-- adaptive_size = true,
+				-- width = 20,
 			},
 		})
 
