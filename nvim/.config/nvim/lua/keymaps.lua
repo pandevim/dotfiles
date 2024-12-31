@@ -92,6 +92,10 @@ vim.opt.expandtab = true
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
+-- Map Shift+H and Shift+L to move to the beginning/end of the line
+vim.keymap.set("n", "H", "^")
+vim.keymap.set("n", "L", "$")
+
 -- Keep cursor in middle while doing scroll
 vim.keymap.set("n", "<C-d>", "<C-d>zz")
 vim.keymap.set("n", "<C-u>", "<C-u>zz")
